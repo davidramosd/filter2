@@ -1,0 +1,27 @@
+import React from 'react';
+
+function App() {
+  const handleDownload = () => {
+    // URL directo al archivo en Google Drive
+    const fileUrl = 'https://drive.google.com/uc?export=download&id=ID_DEL_ARCHIVO';
+    // Crea un elemento <a> para iniciar la descarga
+    const link = document.createElement('a');
+    link.href = fileUrl;
+    link.setAttribute('download', 'nombre_del_archivo.extensión');
+    // Simula un clic en el enlace para iniciar la descarga
+    document.body.appendChild(link);
+    link.click();
+    // Elimina el enlace después de la descarga
+    document.body.removeChild(link);
+  };
+
+  return (
+    <div>
+      <button onClick={handleDownload}>Descargar Archivo</button>
+    </div>
+  );
+}
+
+export default App;
+
+
