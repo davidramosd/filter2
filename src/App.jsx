@@ -82,14 +82,6 @@ function App() {
         (!formData.AHA || item.AHA === formData.AHA) 
 
 
-        // item.Gender === formData.Gender &&   
-        // item.Diagnosed === formData.Diagnosed && 
-        // item.Treatment === formData.Treatment &&  
-        // item.Systolic_BP === formData.Systolic_BP && 
-        // item.Diastolic_BP === formData.Diastolic_BP && 
-        // item.Heart_Rate === formData.Heart_Rate  && 
-        // item.JNC === formData.JNC  && 
-        // item.AHA === formData.AHA 
       ));
       console.log("filtered", filtered)
       setFilteredData(filtered);
