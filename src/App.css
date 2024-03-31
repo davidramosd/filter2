@@ -107,6 +107,7 @@
 
 td, th {
   background-color: white;
+  color: #3e67ad;
 }
 #customers td, #customers th {
   border: 1px solid #ddd;
