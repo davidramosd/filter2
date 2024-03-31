@@ -71,13 +71,13 @@ function App() {
     } else {
       console.log("data", formData)
       const filtered = jsonData.items.filter(item => (
-        (!formData.Age || item.Age === formData.Age) &&
-        (!formData.Gender || item.Gender === formData.Gender) &&
-        (!formData.Diagnosed || item.Diagnosed === formData.Diagnosed) &&   
-        (!formData.Treatment || item.Treatment === formData.Treatment) &&   
-        (!formData.Systolic_BP || item.Systolic_BP === formData.Systolic_BP) &&         
-        (!formData.Diastolic_BP || item.Diastolic_BP === formData.Diastolic_BP) &&   
-        (!formData.Heart_Rate || item.Heart_Rate === formData.Heart_Rate) &&   
+        (!formData.Age || item.Age == formData.Age) &&
+        (!formData.Gender || item.Gender == formData.Gender) &&
+        (!formData.Diagnosed || item.Diagnosed == formData.Diagnosed) &&   
+        (!formData.Treatment || item.Treatment == formData.Treatment) &&   
+        (!formData.Systolic_BP || item.Systolic_BP == formData.Systolic_BP) &&         
+        (!formData.Diastolic_BP || item.Diastolic_BP == formData.Diastolic_BP) &&   
+        (!formData.Heart_Rate || item.Heart_Rate == formData.Heart_Rate) &&   
         (!formData.JNC || item.JNC === formData.JNC) &&   
         (!formData.AHA || item.AHA === formData.AHA) 
 
