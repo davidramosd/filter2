@@ -295,7 +295,8 @@ function App() {
               <td> {item.Heart_Rate} </td>
               <td>{item.JNC}</td>
               <td>{item.AHA}</td>
-              <td><a href={`src/assets/doc/${item.record}.mat`} download> Descargar </a></td>
+              {/* <td><a href={`src/assets/doc/${item.record}.mat`} download> Descargar </a></td> */}
+              <td><a href={`doc/${item.record}.mat`} download> Descargar </a></td>
               </tr>
           ))}
        </tbody>
