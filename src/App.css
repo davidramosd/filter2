@@ -86,6 +86,8 @@
 .input-text {
   width: 100px;
   margin: 5px;
+  background-color: rgb(119, 119, 219);
+  color: white;
 }
 
 .label-text {
