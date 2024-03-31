@@ -95,7 +95,7 @@ function App() {
     // Agregar los archivos al ZIP
     filteredData.forEach((item, index) => {
       console.log(`Elemento ${index + 1}: ${item}`);
-      zip.file(`${item.record}.mat`, fetch(`src/doc/${item.record}.mat`).then(res => res.blob()));
+      zip.file(`${item.record}.mat`, fetch(`src/assets/doc/${item.record}.mat`).then(res => res.blob()));
     }); 
     // Agregar más archivos según sea necesario
   
@@ -295,7 +295,7 @@ function App() {
               <td> {item.Heart_Rate} </td>
               <td>{item.JNC}</td>
               <td>{item.AHA}</td>
-              <td><a href={`src/doc/${item.record}.mat`} download> Descargar </a></td>
+              <td><a href={`src/assets/doc/${item.record}.mat`} download> Descargar </a></td>
               </tr>
           ))}
        </tbody>
