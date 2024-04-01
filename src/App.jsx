@@ -274,6 +274,8 @@ function App() {
             <th>Heart_Rate</th>
             <th>JNC</th>
             <th>AHA</th>
+            <th>Time</th>
+            <th>Frequency</th>
             <th>Actions</th>
           </tr>
         </thead>
@@ -295,6 +297,8 @@ function App() {
               <td> {item.Heart_Rate} </td>
               <td>{item.JNC}</td>
               <td>{item.AHA}</td>
+              <td>{item.duration}</td>
+              <td>{item.fs}</td>
               {/* <td><a href={`src/assets/doc/${item.record}.mat`} download> Descargar </a></td> */}
               <td><a href={`doc/${item.record}.mat`} download> Descargar </a></td>
               </tr>

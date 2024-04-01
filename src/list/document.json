@@ -10,7 +10,9 @@
           "Diastolic_BP": 83,
           "Heart_Rate": 76,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_02",
@@ -22,7 +24,9 @@
           "Diastolic_BP": 75,
           "Heart_Rate": 84,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_03",
@@ -34,7 +38,9 @@
           "Diastolic_BP": 72,
           "Heart_Rate": 56,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_04",
@@ -46,7 +52,9 @@
           "Diastolic_BP": 75,
           "Heart_Rate": 73,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_05",
@@ -58,7 +66,9 @@
           "Diastolic_BP": 64,
           "Heart_Rate": 86,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_06",
@@ -70,7 +80,9 @@
           "Diastolic_BP": 57,
           "Heart_Rate": 85,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_07",
@@ -82,7 +94,9 @@
           "Diastolic_BP": 94,
           "Heart_Rate": 68,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_08",
@@ -94,7 +108,9 @@
           "Diastolic_BP": 96,
           "Heart_Rate": 58,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_09",
@@ -106,7 +122,9 @@
           "Diastolic_BP": 74,
           "Heart_Rate": 62,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_10",
@@ -118,7 +136,9 @@
           "Diastolic_BP": 71,
           "Heart_Rate": 75,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_11",
@@ -130,7 +150,9 @@
           "Diastolic_BP": 72,
           "Heart_Rate": 75,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_12",
@@ -142,7 +164,9 @@
           "Diastolic_BP": 70,
           "Heart_Rate": 75,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_13",
@@ -154,7 +178,9 @@
           "Diastolic_BP": 87,
           "Heart_Rate": 65,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_14",
@@ -166,7 +192,9 @@
           "Diastolic_BP": 90,
           "Heart_Rate": 88,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_15",
@@ -178,7 +206,9 @@
           "Diastolic_BP": 65,
           "Heart_Rate": 97,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_16",
@@ -190,7 +220,9 @@
           "Diastolic_BP": 109,
           "Heart_Rate": 100,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_17",
@@ -202,7 +234,9 @@
           "Diastolic_BP": 81,
           "Heart_Rate": 77,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_18",
@@ -214,7 +248,9 @@
           "Diastolic_BP": 90,
           "Heart_Rate": 84,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_19",
@@ -226,7 +262,9 @@
           "Diastolic_BP": 68,
           "Heart_Rate": 58,
           "JNC": "N",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_20",
@@ -238,7 +276,9 @@
           "Diastolic_BP": 93,
           "Heart_Rate": 62,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_21",
@@ -250,7 +290,9 @@
           "Diastolic_BP": 84,
           "Heart_Rate": 62,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_22",
@@ -262,7 +304,9 @@
           "Diastolic_BP": 60,
           "Heart_Rate": 53,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_23",
@@ -274,7 +318,9 @@
           "Diastolic_BP": 82,
           "Heart_Rate": 71,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_24",
@@ -286,7 +332,9 @@
           "Diastolic_BP": 60,
           "Heart_Rate": 78,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_25",
@@ -298,7 +346,9 @@
           "Diastolic_BP": 60,
           "Heart_Rate": 72,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_26",
@@ -310,7 +360,9 @@
           "Diastolic_BP": 90,
           "Heart_Rate": 69,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_27",
@@ -322,7 +374,9 @@
           "Diastolic_BP": 97,
           "Heart_Rate": 69,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_28",
@@ -334,7 +388,9 @@
           "Diastolic_BP": 78,
           "Heart_Rate": 70,
           "JNC": "N",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_29",
@@ -346,7 +402,9 @@
           "Diastolic_BP": 83,
           "Heart_Rate": 76,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_30",
@@ -358,7 +416,9 @@
           "Diastolic_BP": 78,
           "Heart_Rate": 72,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_31",
@@ -370,7 +430,9 @@
           "Diastolic_BP": 82,
           "Heart_Rate": 72,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_32",
@@ -382,7 +444,9 @@
           "Diastolic_BP": 79,
           "Heart_Rate": 68,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_33",
@@ -394,7 +458,9 @@
           "Diastolic_BP": 75,
           "Heart_Rate": 78,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_34",
@@ -406,7 +472,9 @@
           "Diastolic_BP": 87,
           "Heart_Rate": 80,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_35",
@@ -418,7 +486,9 @@
           "Diastolic_BP": 88,
           "Heart_Rate": 84,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_36",
@@ -430,7 +500,9 @@
           "Diastolic_BP": 72,
           "Heart_Rate": 81,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_37",
@@ -442,7 +514,9 @@
           "Diastolic_BP": 80,
           "Heart_Rate": 83,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_38",
@@ -454,7 +528,9 @@
           "Diastolic_BP": 87,
           "Heart_Rate": 68,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_39",
@@ -466,7 +542,9 @@
           "Diastolic_BP": 83,
           "Heart_Rate": 90,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_40",
@@ -478,7 +556,9 @@
           "Diastolic_BP": 79,
           "Heart_Rate": 106,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_41",
@@ -490,7 +570,9 @@
           "Diastolic_BP": 91,
           "Heart_Rate": 54,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_42",
@@ -502,7 +584,9 @@
           "Diastolic_BP": 86,
           "Heart_Rate": 68,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_43",
@@ -514,7 +598,9 @@
           "Diastolic_BP": 96,
           "Heart_Rate": 65,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_44",
@@ -526,7 +612,9 @@
           "Diastolic_BP": 93,
           "Heart_Rate": 62,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_45",
@@ -538,7 +626,9 @@
           "Diastolic_BP": 90,
           "Heart_Rate": 69,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_46",
@@ -550,7 +640,9 @@
           "Diastolic_BP": 90,
           "Heart_Rate": 69,
           "JNC": "H",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_47",
@@ -562,7 +654,9 @@
           "Diastolic_BP": 75,
           "Heart_Rate": 86,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_48",
@@ -574,7 +668,9 @@
           "Diastolic_BP": 68,
           "Heart_Rate": 97,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_49",
@@ -586,7 +682,9 @@
           "Diastolic_BP": 62,
           "Heart_Rate": 72,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_50",
@@ -598,7 +696,9 @@
           "Diastolic_BP": 74,
           "Heart_Rate": 81,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_51",
@@ -610,7 +710,9 @@
           "Diastolic_BP": 75,
           "Heart_Rate": 83,
           "JNC": "N",
-          "AHA": "N"
+          "AHA": "N",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_52",
@@ -622,7 +724,9 @@
           "Diastolic_BP": 72,
           "Heart_Rate": 75,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_53",
@@ -634,7 +738,9 @@
           "Diastolic_BP": 75,
           "Heart_Rate": 75,
           "JNC": "E",
-          "AHA": "E"
+          "AHA": "E",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_54",
@@ -646,7 +752,9 @@
           "Diastolic_BP": 85,
           "Heart_Rate": 76,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_55",
@@ -658,7 +766,9 @@
           "Diastolic_BP": 83,
           "Heart_Rate": 71,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         },
         {
           "record": "PPG_subj_56",
@@ -670,7 +780,9 @@
           "Diastolic_BP": 89,
           "Heart_Rate": 78,
           "JNC": "E",
-          "AHA": "H"
+          "AHA": "H",
+          "duration": "2 min",
+          "fs": "100 Hz"
         }
       ]
   }
