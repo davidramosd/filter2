@@ -114,7 +114,12 @@ function App() {
 
   return (
     <div className='filter-fields'>
-      
+        <div className='filer-form-2'>
+          <h1>Repositorio de registros PPG </h1>
+          <p>El repositorio consta de 56 registros de señales PPG, cada uno con una duración de 2 minutos y una frecuencia de muestreo de 100 Hz. Cada registro representa a un individuo que participó en el estudio. Es importante destacar que ninguno de los sujetos incluidos en esta base de datos se encontraba hospitalizado en el momento de la toma de datos. Todas las mediciones se realizaron en un entorno controlado, específicamente en un laboratorio.</p>
+          <p>Esta información incluye si el individuo está diagnosticado con hipertensión, si está recibiendo tratamiento y cómo se clasifica según los criterios establecidos por el Comité de Expertos en el Tratamiento de la Hipertensión Arterial (JNC, por sus siglas en inglés). Las clasificaciones incluyen Normotenso (N), Prehipertenso (E) e Hipertenso (H), según los valores de presión arterial sistólica y diastólica.</p>
+          <p>Esta base de datos representa una herramienta valiosa para investigadores y profesionales de la salud que buscan desarrollar métodos precisos y no invasivos para la estimación de la presión arterial. Al permitir el acceso a datos clínicamente relevantes y señales fisiológicas detalladas, se espera que esta base de datos contribuya significativamente al avance en el campo de la monitorización y el diagnóstico de la presión arterial, así como en la mejora de las estrategias de tratamiento para pacientes con hipertensión arterial.</p>
+        </div>
       {
         showForm
         ?
